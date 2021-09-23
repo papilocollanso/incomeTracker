@@ -1,24 +1,12 @@
 # incometracker
 
-## Project setup
-```
-npm install
-```
+A web app for displaying incoe and expenses in a sorted order by date.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ Features
+ - simple and good design
+ - sorted in descending order by date.
+ - tracks amount used in dollars.
+ 
+ - Main Page
+ 
+![income1](https://user-images.githubusercontent.com/55124189/134454566-1dfed84e-2a12-49b6-8a88-46de23a00d34.jpg)
