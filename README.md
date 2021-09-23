@@ -6,6 +6,7 @@ A web app for displaying income and expenses in a sorted order by date.
  - simple and good designs
  - sorted in descending order by date.
  - tracks amount used in dollars.
+ - uses vue composition Api for more efficiency
  
  - Main Page
  - https://incomes-tracker.firebaseapp.com
