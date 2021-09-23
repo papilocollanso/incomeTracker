@@ -1,9 +1,9 @@
 # incometracker
 
-A web app for displaying incoe and expenses in a sorted order by date.
+A web app for displaying income and expenses in a sorted order by date.
 
  Features
- - simple and good design
+ - simple and good designs
  - sorted in descending order by date.
  - tracks amount used in dollars.
  
